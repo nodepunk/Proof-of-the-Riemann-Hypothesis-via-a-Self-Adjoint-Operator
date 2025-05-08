@@ -1,13 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite the preprint below."
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Ip
-    given-names: Lawrence
-    affiliation: "Independent Researcher"
-title: "Proof of the Riemann Hypothesis via a Self-Adjoint Operator"
-version: "1.0"
+- family-names: "Ip"
+  given-names: "Lawrence"
+title: "Proof-of-the-Riemann-Hypothesis-via-a-Self-Adjoint-Operator"
+version: 1.0.0
 doi: 10.5281/zenodo.15334802
-date-released: 2025-05-04
-url: https://zenodo.org/records/15334802
-license: "CC-BY-4.0"
-type: article
+date-released: 2025-05-07
+url: "https://github.com/nodepunk/Proof-of-the-Riemann-Hypothesis-via-a-Self-Adjoint-Operator"
