@@ -2,6 +2,8 @@
 
 ## Author: Lawrence Ip  
 **DOI (Zenodo Preprint):** [10.5281/zenodo.15334802](https://doi.org/10.5281/zenodo.15334802)
+
+---
 **Date of Preprint Release:** May 4, 2025  
 **Download Metrics (as of May 8):** 97 verified downloads in 94 hours
 
@@ -38,6 +40,17 @@ The work formalizes a complete resolution of RH, establishing it as a **spectral
 
 > **Theorem (Spectral Necessity of RH):**  
 We present a complete proof of the Riemann Hypothesis (RH) by explicitly constructing a self-adjoint operator whose eigenvalues correspond precisely to the non-trivial zeros of the Riemann zeta function. This approach, rooted in spectral theory, enforces RH as a necessary consequence of the operator’s spectral properties. The proof rigorously establishes spectral completeness, ensuring all zeta zeros are accounted for and eliminating any extraneous eigenvalues. Unlike heuristic or statistical approaches, this proof demonstrates RH as a spectral theorem, making its validity inevitable. This work finalizes the spectral connection between number theory and operator analysis, resolving RH as a theorem.
+
+
+---
+
+### 📜 License
+
+This repository and its contents are licensed under the  
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to **share** and **adapt** the material for any purpose, even commercially, **provided that appropriate credit is given**.
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
